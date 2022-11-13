@@ -77,7 +77,7 @@ app.get("/companions", (req, res) => {
     message:
       "There have been many companions of The Doctor through out its 50 year history",
     content:
-      "Davros was our creator. We want to exterminate the entire Universe. We are not afraid of stairs.",
+      "In the long-running BBC television science fiction programme Doctor Who and related works, the term 'companion' refers to a character who travels or shares adventures with the Doctor. In most Doctor Who stories, the primary companion acts as an audience surrogate",
   });
 });
 
